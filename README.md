@@ -6,7 +6,7 @@ In file spw1 and spw3 there are the previous and following steps respectively.
 For Task 2, the webapp is here https://spotawheel.herokuapp.com/ .The code is in file stapp.py. User can input their car details and will get a price prediction.
 For the system design and components description, it is in the file inproduction.docx
 
-Ofcourse this is just the first version and still need some fine-tuning. But it works!
+Ofcourse this is just a working prototype!
 ----
 
 Task 1. Predict Cars
